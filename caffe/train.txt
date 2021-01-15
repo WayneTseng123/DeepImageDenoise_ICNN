@@ -1,0 +1,1 @@
+examples/mylenet_denoise/train_zeropad_sigma25.h5
