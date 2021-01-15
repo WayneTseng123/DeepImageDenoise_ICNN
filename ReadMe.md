@@ -6,20 +6,20 @@
 
 - **Architecture**
 
-  <img src=".\Architecture.png" alt="Architecture" style="zoom:50%;" />
+  <img src=".\Architecture.png" alt="Architecture" style="zoom:40%;" />
 
   
 
 - **PSNR comparison with baseline models**
 
-  ![搜狗截图20210116023748](C:\Users\wei\Desktop\搜狗截图20210116023748.png)
+  <img src=".\Table.png" alt="psnr" style="zoom:50%;" />
 
 - **Ablation Study with Inception Structure**
 
-  <img src="C:\Users\wei\Desktop\Presentation\资讯科技研究方法\inception对比.jpg" alt="inception对比" style="zoom:44%;" />
+  <img src=".\inceptionComp.jpg" alt="inception对比" style="zoom:44%;" />
 
-  <img src="C:\Users\wei\Desktop\Presentation\资讯科技研究方法\inception对比2.jpg" alt="inception对比2" style="zoom:44%;" />
+  <img src=".\inceptionComp2.jpg" alt="inception对比2" style="zoom:44%;" />
 
 - **Ablation Study with BN/Residual Learning**
 
-  <img src="C:\Users\wei\Desktop\Presentation\资讯科技研究方法\三种策略对比.jpg" alt="三种策略对比" style="zoom:50%;" />
+  <img src=".\AblationStudy.jpg" alt="三种策略对比" style="zoom:50%;" />
