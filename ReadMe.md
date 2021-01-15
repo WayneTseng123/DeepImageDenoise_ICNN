@@ -6,7 +6,7 @@
 
 - **Architecture**
 
-  <img src="C:\Users\wei\Desktop\Presentation\资讯科技研究方法\搜狗截图20201118125325.png" alt="搜狗截图20201118125325" style="zoom:50%;" />
+  <img src=".\Architecture.png" alt="Architecture" style="zoom:50%;" />
 
   
 
